@@ -1,0 +1,144 @@
+{
+  "company": {
+    "name": "Mشlak Capital",
+    "logo": "/assets/images/logo1.png"
+  },
+  "navigation": [
+    {
+      "name": "Goals",
+      "href": "product"
+    },
+    {
+      "name": "Pricing",
+      "href": "features"
+    },
+    {
+      "name": "Register",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Mشlak",
+    "subtitle": "Capital",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "img": "/assets/images/globe.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Goals",
+    "items": [
+      {
+        "title": "Be the leading invesment captial",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/RiyadhK.jpg"
+      },
+      {
+        "title": "Bring all the invesments to Riyadh",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/Riyadh.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "هلا",
+        "description": "اختباؤ جديد للجهة اليمنى",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Basic",
+        "price": "$500",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$1500",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "Contact us",
+        "priceDetails": "",
+        "features": [
+          "unlimted users",
+          "24/7 Support",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "twitter": "",
+      "linkedin": ""
+    }
+  }
+}

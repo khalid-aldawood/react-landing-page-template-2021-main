@@ -1,0 +1,144 @@
+{
+  "company": {
+    "name": "ملاك المالية",
+    "logo": "/assets/images/logo1.png"
+  },
+  "navigation": [
+    {
+      "name": "الأهداف",
+      "href": "product"
+    },
+    {
+      "name": "الأسعار",
+      "href": "features"
+    },
+    {
+      "name": "التسجيل",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "ملاك",
+    "subtitle": "المالية",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "img": "/assets/images/globe.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "الأهداف",
+    "items": [
+      {
+        "title": "أن نكون رواد الاسثمار في الشرق الأوسط",
+        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "img": "/assets/images/RiyadhK.jpg"
+      },
+      {
+        "title": "أن نكون بيئة خصبة لجذب المستثمرين في الرياض الخضراء",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/Riyadh.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "All the best technologies out there!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "هلا",
+        "description": "اختباؤ جديد للجهة اليمنى",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "الأسعار",
+    "items": [
+      {
+        "name": "الأساسي",
+        "price": "$500",
+        "priceDetails":"لمستخدم واحد",
+        "features": [
+          "مستخدم واحد",
+          "دعم أساسي",
+          "دعم بالبريد الالكتروني"
+        ]
+      },
+      {
+        "name": "المميز",
+        "price": "$1500",
+        "priceDetails": "لخمسة مستخدمين",
+
+        "features": [
+          "خمسة مستخدمين",
+          "دعم سريع",
+          "دعم هاتفي و بريد الكتروني"
+        ]
+      },
+      {
+        "name": "الشركات",
+        "price": "تواصل معنا",
+        "priceDetails": "",
+        "features": [
+          "عدد مستخدمين لا محدود",
+          "24/7 دعم على مدار الساعة",
+          "دعم هاتفي و بريد الكتروني"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "رابط",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "رابط",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "رباط",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "رابط",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "twitter": "",
+      "linkedin": ""
+    }
+  }
+}
